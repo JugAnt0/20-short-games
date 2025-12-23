@@ -1,149 +1,139 @@
-# 🎮 Python Mini-Games Collection
+## 🎮 Python Mini-Games Collection (20 Games)
 
-A collection of **20 terminal-based Python mini-games** inspired by classic party games, logic challenges, and interactive storytelling.  
-Each game is self-contained and designed to practice core Python concepts through interactive play.
+A collection of 20 terminal-based Python mini-games bundled into a single interactive program.
+The project is inspired by classic party games, logic challenges, and simple interactive storytelling, and was built to practice core Python concepts through hands-on play.
 
----
+Players launch the program once and select games from a numbered menu.
 
-## 📦 Requirements
+## 📦 Features
 
-- Python **3.8 or higher**
-- Terminal / Command Prompt
-- No external dependencies
+20 playable mini-games in one program
 
-Built-in modules used:
-- `random`
-- `time`
-- `sys`
+Menu-driven interface (no code modification required)
 
----
+Runs in terminal or as a standalone Windows executable
 
-## 🚀 Installation
+No external dependencies
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/python-mini-games.git
-   cd python-mini-games
-2. Verify Python installation:
-   python --version
-3. Open the file containing the games:
-   code games.py
-4. Uncomment the game you want to play.
-5. Run.- python games.py
+## 🧠 Built With
+
+Python 3.8+
+
+Built-in modules only:
+
+random
+
+time
+
+sys
+
+## 🚀 How to Run
+# Option 1: Run with Python
+
+Clone the repository:
+
+git clone https://github.com/your-username/20-Games.git
+cd 20-Games
 
 
-## 🎲 Games & How to Run Them
-### 1. Secret Santa
+Run the program:
 
-Run: Uncomment #1 SECRET SANTA
-Enter number of players (3–15) and follow the private reveal prompts.
+python 20-Games.py
 
-### 2. Two Truths and a Lie
 
-Run: Uncomment #2 TWO TRUTHS AND A LIE
-Enter number of players and prepare statements.
+Choose a game by entering its number in the menu.
 
-### 3. Mafia
+# Option 2: Run the Windows Executable (Recommended)
 
-Run: Uncomment #3 MAFIA
-Enter number of players (4–10). Roles are revealed privately.
+Go to the Releases section of this repository
 
-### 4. House Decor Simulator
+Download 20-Games.exe
 
-Run: Uncomment #4 HOUSE DECOR
-Choose a room and style to receive decoration suggestions.
+Double-click to play — no Python installation required
 
-### 5. Fortune Telling Service
+## 🎲 Games Included
 
-Run: Uncomment #5 FORTUNE TELLING
-Choose between fortune cookie, tarot, crystal ball, or conversation.
+# Secret Santa
+Randomly assigns gift recipients while keeping assignments private.
 
-### 6. Outfit Inspiration Generator
+# Two Truths and a Lie
+Players submit statements and guess which one is false.
 
-Run: Uncomment #6 OUTFIT INSPO
-Enter clothing preferences and receive a runway-style review.
+# Mafia
+A turn-based social deduction game with hidden roles and eliminations.
 
-### 7. Sheep Story Game
+# House Decor Simulator
+Generates decoration ideas based on room type and aesthetic preferences.
 
-Run: Uncomment #7 SHEEP GAME
-Play through a multi-chapter interactive story.
+# Fortune Telling Service
+Delivers randomized fortunes using different mystical formats.
 
-### 8. Multiplication Power Game
+# Outfit Inspiration Generator
+Creates outfit suggestions and presents them with a playful runway-style critique.
 
-Run: Uncomment #8 MULT GAME
-Enter a number to see its powers up to the 10th.
+# Sheep Story Game
+An interactive, multi-chapter story where player choices affect the narrative (MY PERSONAL FAVOURITE).
 
-### 9. Balloon Pop
+# Multiplication Power Game
+Displays powers of a chosen number up to the 10th exponent.
 
-Run: Uncomment #9 BALLOON POP
-Inflate the balloon or pop it before it bursts.
+# Balloon Pop
+A risk-reward game where players inflate a balloon without making it burst.
 
-### 10. Story Adventure
+# Story Adventure
+A branching narrative game with multiple possible endings.
 
-Run: Uncomment #10 STORY ADVENTURE
-Make choices that determine different endings.
+# Dice Race
+A turn-based race against the computer using random dice rolls.
 
-### 11. Dice Race
+# Trivia Game
+A multiple-choice quiz covering general knowledge questions.
 
-Run: Uncomment #11 DICE RACE
-Press Enter each turn to roll the dice and race the computer.
+# Treasure Hunt
+A grid-based guessing game where players search for hidden treasure.
 
-### 12. Trivia Game
+# Simon Says
+A memory challenge where players repeat increasingly long color sequences.
 
-Run: Uncomment #12 TRIVIA
-Answer questions using A, B, C, or D.
+# Memory (Pairs)
+A classic matching game that tests pattern recognition and recall.
 
-### 13. Treasure Hunt
+# Math Quiz
+A short quiz of randomly generated arithmetic problems.
 
-Run: Uncomment #13 TREASURE HUNT
-Guess row and column numbers (1–5) to find the treasure.
+# Guess the Word
+A hangman-style word guessing game with limited attempts.
 
-### 14. Simon Says
+# Rock, Paper, Scissors
+The classic game played against the computer with instant results.
 
-Run: Uncomment #14 SIMON SAYS
-Memorize and repeat color sequences.
+# Tic Tac Toe
+Playable in Player vs Player or Player vs Computer mode.
 
-### 15. Memory (Pairs)
+# Hide and Seek (Numbers)
+Guess the hidden number within a limited range before running out of tries.
+Each game runs directly from the main menu and provides instructions in-terminal.
 
-Run: Uncomment #15 MEMORY
-Match all pairs to win.
-
-### 16. Math Quiz
-
-Run: Uncomment #16 MATH QUIZ
-Answer five randomly generated math questions.
-
-### 17. Guess the Word
-
-Run: Uncomment #17 GUESS THE WORD
-Guess letters before running out of attempts.
-
-### 18. Rock, Paper, Scissors
-
-Run: Uncomment #18 ROCK PAPER SCISSORS
-Play against the computer or type quit to exit.
-
-### 19. Tic Tac Toe
-
-Run: Uncomment #19 TIC TAC TOE
-Choose Player vs Player or Player vs Computer.
-
-### 20. Hide and Seek (Numbers)
-
-Run: Uncomment #20 HIDE AND SEEK
-Guess the hidden number between 1 and 20.
-
-##🎓 Learning Goals
+## 🎓 Learning Goals
 
 Control flow and conditionals
 
-Functions and modular logic
+Functions and structured program design
 
-Randomization
+Randomization and game logic
 
 Input validation
 
-Terminal-based user interaction
+Building interactive terminal programs
+
+Packaging Python projects into executables
+
+## 🌐 Live Demo
+
+A playable Windows executable is available here:
+👉 GitHub Releases → Download 20-Games.exe
+
+This version can be run immediately without setting up Python.
 
 ## ✍️ Author
 
