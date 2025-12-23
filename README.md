@@ -1,4 +1,4 @@
-## 🎮 Python Mini-Games Collection (20 Games)
+# 🎮 Python Mini-Games Collection (20 Games)
 
 A collection of 20 terminal-based Python mini-games bundled into a single interactive program.
 The project is inspired by classic party games, logic challenges, and simple interactive storytelling, and was built to practice core Python concepts through hands-on play.
@@ -28,7 +28,7 @@ time
 sys
 
 ## 🚀 How to Run
-# Option 1: Run with Python
+### Option 1: Run with Python
 
 Clone the repository:
 
@@ -53,64 +53,64 @@ Double-click to play — no Python installation required
 
 ## 🎲 Games Included
 
-# Secret Santa
+### Secret Santa
 Randomly assigns gift recipients while keeping assignments private.
 
-# Two Truths and a Lie
+### Two Truths and a Lie
 Players submit statements and guess which one is false.
 
-# Mafia
+### Mafia
 A turn-based social deduction game with hidden roles and eliminations.
 
-# House Decor Simulator
+### House Decor Simulator
 Generates decoration ideas based on room type and aesthetic preferences.
 
-# Fortune Telling Service
+### Fortune Telling Service
 Delivers randomized fortunes using different mystical formats.
 
-# Outfit Inspiration Generator
+### Outfit Inspiration Generator
 Creates outfit suggestions and presents them with a playful runway-style critique.
 
-# Sheep Story Game
+### Sheep Story Game
 An interactive, multi-chapter story where player choices affect the narrative (MY PERSONAL FAVOURITE).
 
-# Multiplication Power Game
+### Multiplication Power Game
 Displays powers of a chosen number up to the 10th exponent.
 
-# Balloon Pop
+### Balloon Pop
 A risk-reward game where players inflate a balloon without making it burst.
 
-# Story Adventure
+### Story Adventure
 A branching narrative game with multiple possible endings.
 
-# Dice Race
+### Dice Race
 A turn-based race against the computer using random dice rolls.
 
-# Trivia Game
+### Trivia Game
 A multiple-choice quiz covering general knowledge questions.
 
-# Treasure Hunt
+### Treasure Hunt
 A grid-based guessing game where players search for hidden treasure.
 
-# Simon Says
+### Simon Says
 A memory challenge where players repeat increasingly long color sequences.
 
-# Memory (Pairs)
+### Memory (Pairs)
 A classic matching game that tests pattern recognition and recall.
 
-# Math Quiz
+### Math Quiz
 A short quiz of randomly generated arithmetic problems.
 
-# Guess the Word
+### Guess the Word
 A hangman-style word guessing game with limited attempts.
 
-# Rock, Paper, Scissors
+### Rock, Paper, Scissors
 The classic game played against the computer with instant results.
 
-# Tic Tac Toe
+### Tic Tac Toe
 Playable in Player vs Player or Player vs Computer mode.
 
-# Hide and Seek (Numbers)
+### Hide and Seek (Numbers)
 Guess the hidden number within a limited range before running out of tries.
 Each game runs directly from the main menu and provides instructions in-terminal.
 
