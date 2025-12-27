@@ -9,8 +9,8 @@ The focus was learning by building, testing, and fixing my own mistakes.
 
 * The entire project runs from a single Python file
 * When launched, a numbered menu appears in the terminal
-*The player selects a game by entering its number
-*Instructions are shown in the terminal for each game
+* The player selects a game by entering its number
+* Instructions are shown in the terminal for each game
 
 ## Games Included
 
@@ -56,12 +56,12 @@ The focus was learning by building, testing, and fixing my own mistakes.
 
 ## What I Learned
 
-Designing programs using functions instead of long scripts
-Managing control flow and user input in terminal applications
-Using randomness to create replayable logic
-Handling invalid input without crashing the program
-Structuring a multi-game project inside a single file
-Turning a Python script into a distributable executable
+Designing programs using functions instead of long scripts.
+Managing control flow and user input in terminal applications.
+Using randomness to create replayable logic.
+Handling invalid input without crashing the program.
+Structuring a multi-game project inside a single file.
+Turning a Python script into a distributable executable.
 
 ## Windows Executable
 
