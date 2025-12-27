@@ -14,17 +14,17 @@ The focus was learning by building, testing, and fixing my own mistakes.
 
 ## Games Included
 
-*Secret Santa — Randomly assigns gift recipients while keeping pairs hidden
+* Secret Santa — Randomly assigns gift recipients while keeping pairs hidden
 
-*Two Truths and a Lie — Players guess which statement is false
+* Two Truths and a Lie — Players guess which statement is false
 
-*Mafia — Turn-based social deduction game with hidden roles
+* Mafia — Turn-based social deduction game with hidden roles
 
-*House Decor Simulator — Generates decor ideas based on room type
+* House Decor Simulator — Generates decor ideas based on room type
 
-*Fortune Telling Service — Produces randomized fortune messages
+* Fortune Telling Service — Produces randomized fortune messages
 
-*Outfit Inspiration Generator — Suggests outfits with short descriptions
+* Outfit Inspiration Generator — Suggests outfits with short descriptions
 
 * Sheep Story Game — Choice-based story with multiple paths
 
@@ -73,3 +73,4 @@ A short demo showing the menu and gameplay is available here:
 [Youtube link]
 
 # Made by Antonio Canale
+(README made with 0% ai)
